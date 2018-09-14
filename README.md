@@ -16,8 +16,11 @@ Find usernames across over 75 social networks This is useful if you are running 
 Usage:::
 
 1)git clone https://github.com/attakercyebr/hack4lx_social.git
+
 2)cd hack4lx_social
+
 3)chmod +x hack4lx_social.sh
+
 4)./hack4lx_social.sh
 
 **************************************************************************
