@@ -1017,6 +1017,5 @@ printf "https://%s.basecamphq.com/login\n" $username >> $username.txt
 fi
 partial
 }
-banner
 scanner
 
