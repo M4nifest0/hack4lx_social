@@ -2,7 +2,10 @@
 
 How To Tutorials Video Install Script :: (http://bit.ly/2NajQKm)
 
-Telegram Chat
+******************************************************************
+
+[![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
+
 
 social Finder  2018
 
