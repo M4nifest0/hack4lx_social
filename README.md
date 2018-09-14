@@ -9,6 +9,9 @@ How To Tutorials Video Install Script :: (http://bit.ly/2NajQKm)
 
 social Finder  2018
 
+Find usernames across over 75 social networks This is useful if you are running an investigation to determine the usage of the same username on different social networks.
+
+
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗  ██╗██╗     ██╗  ██╗
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║  ██║██║     ╚██╗██╔╝
 ███████║███████║██║     █████╔╝ ███████║██║      ╚███╔╝ 
