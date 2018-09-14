@@ -5,7 +5,7 @@
 ██▌▐▀▐█ ▪▐▌▐███▌▐█.█▌▐█▌▐▌▪▐█·█▌
 ▀▀▀ · ▀  ▀ ·▀▀▀ ·▀  ▀.▀▀▀ •▀▀ ▀▀
 
-git clone https://github.com/thelinuxchoice/instainsane
-cd instainsane
+git clone https://github.com/attakercyebr/hack4lx_social.git
+cd hack4lx_social
 chmod +x hack4lx_social.sh
 ./hack4lx_social.sh
